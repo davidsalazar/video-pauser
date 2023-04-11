@@ -15,7 +15,7 @@ To test, just tab or hover over videos.
 npm install video-pauser
 ```
 
-Then...
+Then....
 
 ```
 import VideoPauser from 'video-pauser';
