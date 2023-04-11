@@ -14,7 +14,9 @@ function VideoPauser(videoSelector) {
 		all: unset;
 		cursor: pointer; 
 		font-size: 32px;
-		padding: 2px 14px;
+		height: 1.6em;
+		width: 1.6em;
+		text-align: center;
 		color: #fff;
 		display: inline-block;
 		z-index: 3;
