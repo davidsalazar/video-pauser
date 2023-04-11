@@ -1,0 +1,19 @@
+{
+  "name": "video-pauser",
+  "version": "1.0.0",
+  "description": "This will look for decorative muted looped videos and adds a styled button on focus or hover which toggles pause / play functionality. This is to meet wcag.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsalazar/video-pauser.git"
+  },
+  "author": "David S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidsalazar/video-pauser/issues"
+  },
+  "homepage": "https://github.com/davidsalazar/video-pauser#readme"
+}
