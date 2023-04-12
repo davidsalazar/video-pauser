@@ -70,4 +70,4 @@ function VideoPauser(videoSelector) {
 		div.appendChild(video);
 	});
 }
-module.exports = VideoPauser;
+export default VideoPauser;
